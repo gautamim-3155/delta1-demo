@@ -1,2 +1,2 @@
 # delta1-demo
-demo for git and github class
+Demo for Git and Github class
